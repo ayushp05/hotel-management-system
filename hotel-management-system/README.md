@@ -30,7 +30,7 @@ A simple Hotel Management System built with Java. This project allows basic mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eh-harsh02/hotel-management-system.git
+   git clone https://github.com/ayushp05/hotel-management-system/tree/main/hotel-management-system
    cd hotel-management-system
 2. Compile the code:
    ```bash
@@ -38,4 +38,5 @@ A simple Hotel Management System built with Java. This project allows basic mana
 3. Run the program:
    ```bash
    java Main
+
 
